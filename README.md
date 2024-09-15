@@ -6,8 +6,9 @@ My data science and analytics projects
 1. SQL supermarket analysis
 2. SQL churn analysis
 3. R Programming - Pao Ying Chub
-4. Looker GA4 Dashboard
-5. Linear Regression Model using caret
+4. Python - Pao Ying Chub
+5. Looker GA4 Dashboard
+6. Linear Regression Model using caret
 
 ## Contact Me
 reach out to me at phasonha@gmail.com
